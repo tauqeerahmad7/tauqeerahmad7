@@ -13,7 +13,9 @@
 
 - 🗣 Languages [English Urdu](English Urdu)
 
-- 💼 Experience **Software Engineer (Android) @ Vyro.ai (02/2024 - Present): Developed AI-powered solutions for Android and cross-platform apps using Kotlin Multiplatform. Associate Software Engineer @ Byte (10/2022 - 01/2024): Led cross-platform development using KMP, developed Android-specific features with Kotlin and Jetpack Compose. Android Development Intern @ DevGate (10/2021 - 03/2022): Worked on Kotlin and Java-based Android apps, contributing to UI and app feature enhancements.**
+- 💼 Experience **Software Engineer (Android) @ Vyro.ai (02/2024 - Present): Developed AI-powered solutions for Android and cross-platform apps using Kotlin Multiplatform. 
+Associate Software Engineer @ Byte (10/2022 - 01/2024): Led cross-platform development using KMP, developed Android-specific features with Kotlin and Jetpack Compose. 
+Android Development Intern @ DevGate (10/2021 - 03/2022): Worked on Kotlin and Java-based Android apps, contributing to UI and app feature enhancements.**
 
 - 📫 How to reach me **📫 How to reach me: 📧 Email: chishty.tauqeer@gmail.com 💼 https://www.linkedin.com/in/ahmedtauqeer16/**
 
