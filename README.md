@@ -7,13 +7,19 @@
 
 - 🔭 I’m currently working on **Native Android apps focusing on AI-powered solutions**
 
-- 🌱 Skills **Cross-platform development with Kotlin Multiplatform (KMP) and Jetpack Compose Android SDK, Android Studio, and Performance Optimization MVC, MVP, MVI, MVVM Architecture Patterns Unit Testing, XML, Git, Java, Kotlin**
+- 🌱 Skills
+**Cross-platform development with Kotlin Multiplatform (KMP) and Jetpack Compose Android SDK, Android Studio, and Performance Optimization MVC, MVP, MVI, MVVM Architecture Patterns Unit Testing, XML, Git, Java, Kotlin**
 
-- 💡 Projects [BYTE 2.0: A cutting-edge food delivery app built using Kotlin Multiplatform Mobile (KMM) and Jetpack Compose. POS for Melt: Cross-platform Point of Sale (POS) system with Kotlin Multiplatform (KMP) and Jetpack Compose for order management and payment processing. Group Messenger: Android-based messaging app built in Java, featuring advanced communication functionalities.](BYTE 2.0: A cutting-edge food delivery app built using Kotlin Multiplatform Mobile (KMM) and Jetpack Compose. POS for Melt: Cross-platform Point of Sale (POS) system with Kotlin Multiplatform (KMP) and Jetpack Compose for order management and payment processing. Group Messenger: Android-based messaging app built in Java, featuring advanced communication functionalities.)
+- 💡 Projects
+[BYTE 2.0: A cutting-edge food delivery app built using Kotlin Multiplatform Mobile (KMM) and Jetpack Compose.
+POS for Melt: Cross-platform Point of Sale (POS) system with Kotlin Multiplatform (KMP) and Jetpack Compose for order management and payment processing.
+Group Messenger: Android-based messaging app built in Java, featuring advanced communication functionalities.]
 
-- 🗣 Languages [English Urdu](English Urdu)
+- 🗣 Languages
+[English Urdu](English Urdu)
 
-- 💼 Experience **Software Engineer (Android) @ Vyro.ai (02/2024 - Present): Developed AI-powered solutions for Android and cross-platform apps using Kotlin Multiplatform. 
+- 💼 Experience
+**Software Engineer (Android) @ Vyro.ai (02/2024 - Present): Developed AI-powered solutions for Android and cross-platform apps using Kotlin Multiplatform.
 Associate Software Engineer @ Byte (10/2022 - 01/2024): Led cross-platform development using KMP, developed Android-specific features with Kotlin and Jetpack Compose. 
 Android Development Intern @ DevGate (10/2021 - 03/2022): Worked on Kotlin and Java-based Android apps, contributing to UI and app feature enhancements.**
 
